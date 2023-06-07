@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 50vh;
+}
+
+#essaie, #texte{
+    padding: 10px;
+    font-size: 50px;
+    margin-top: 10px;
+}
